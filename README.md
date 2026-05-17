@@ -6,7 +6,7 @@ Built with Python, Scikit-learn, XGBoost, and Streamlit — deployed as an inter
 
 ---
 
-## 🎯 What It Does
+##  What It Does
 
 User enters phone specifications (RAM, storage, camera, battery, 5G, brand etc.) and the app returns:
 - **Price Category** — Budget / Mid-Range / Upper Mid-Range / Premium
